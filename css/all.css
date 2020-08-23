@@ -10476,4 +10476,17 @@ header .header-info button {
   opacity: .5;
   font-size: 24px;
 }
+
+.product-area li {
+  margin-bottom: 60px;
+}
+
+.product-area .page-list {
+  font-size: 18px;
+}
+
+.product-area .page-list .page-click a {
+  color: #343a40;
+  text-decoration: underline;
+}
 /*# sourceMappingURL=all.css.map */
